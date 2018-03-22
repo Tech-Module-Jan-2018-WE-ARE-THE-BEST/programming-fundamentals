@@ -1,5 +1,5 @@
-<<<<<<< Here we post our markdowns to the problems
-=======
+Here we post our markdowns to the problems
+
 # programming-fundamentals
 Programming Fundamentals Repo
 
