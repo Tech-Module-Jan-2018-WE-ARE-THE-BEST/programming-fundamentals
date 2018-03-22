@@ -1,3 +1,30 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+# programming-fundamentals
+Programming Fundamentals Repo
+
+Problem 2
+- **Rectangle Area**
+
+Write a program, which calculates a **rectangle&#39;s area** , based on its **width** and **height**. The **width** and **height** come as floating point numbers on the console, **formatted to the 2**** nd **** character after the decimal point**.
+
+**Examples**
+
+| **Input** | **Output** |
+| --- | --- |
+| 27 | 14.00 |
+| 78 | 56.00 |
+| 12.335 | 61.65 |
+
+
+=======
+### 1.  
+Day
+of Week
+=======
+>>>>>>> 6275f746b47b4cbf511f954153955a485d379d8d
 1. 1.Multiply a Number by 2
 
 You are given a number **N**. Create a JS function that **multiplies** the **number by 2** and prints the result. The input comes as an **array of strings**.
