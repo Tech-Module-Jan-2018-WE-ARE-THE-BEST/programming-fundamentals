@@ -4,7 +4,7 @@
 
 <h3>#Programming Fundamentals Repo</h3>
 
-### Problem 1.\ Day of the week
+### Problem 1. Day of the week
 
 1. 1.Multiply a Number by 2
 
@@ -31,7 +31,7 @@ Note that a simpler solution could also work, but is not recommended because it 
 
  =======
  
-### Problem 2.\ Rectangle Area
+### Problem 2. Rectangle Area
 
 Write a program, which calculates a **rectangle&#39;s area** , based on its **width** and **height**. The **width** and **height** come as floating point numbers on the console, **formatted to the 2**** nd **** character after the decimal point**.
 
@@ -45,7 +45,7 @@ Write a program, which calculates a **rectangle&#39;s area** , based on its **wi
 
  =======
  
-### Problem 3.\ Miles to Kilometers
+### Problem 3. Miles to Kilometers
 
 
 Write a program, which **converts****miles** to **kilometers**. **Format** the output
