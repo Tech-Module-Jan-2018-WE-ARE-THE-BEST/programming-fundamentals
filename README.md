@@ -1,6 +1,3 @@
-# programming-fundamentals
-Programming Fundamentals Repo
-
 ### 1.  
 Day
 of Week
