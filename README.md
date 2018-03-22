@@ -1,5 +1,7 @@
 Here we post our markdowns to the problems
 
+Problems for exercises and homework for the https://softuni.bg/trainings/1787/software-technologies-march-2018# course.
+
 # programming-fundamentals
 Programming Fundamentals Repo
 
