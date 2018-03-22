@@ -18,7 +18,7 @@ namespace P03_MilesToKilometers
             /* Calculate the distance from miles to kilometers */
             var distanceInKilometers = distanceInMiles * kilometersPerMile;
 
-            /* Print the distance in kilometers on the console */
+            /* Print the distance in kilometers on the console. */
             Console.WriteLine("{0:F2}", distanceInKilometers);
         }
     }
