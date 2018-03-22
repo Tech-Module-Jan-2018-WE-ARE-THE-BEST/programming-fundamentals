@@ -2,17 +2,21 @@
 <<<<<<< HEAD
 # programming-fundamentals
 Programming Fundamentals Repo
+
 Problem 2
-Rectangle Area  
-Write a program, which calculates a rectangle’s area, based on its width and height. The width and height come as floating point numbers on the console, formatted to the 2nd character after the decimal point.  
-Examples  
-Input    Output  
-2  
-7    14.00  
-7  
-8    56.00  
-12.33  
-5    61.65
+- **Rectangle Area**
+
+Write a program, which calculates a **rectangle&#39;s area** , based on its **width** and **height**. The **width** and **height** come as floating point numbers on the console, **formatted to the 2**** nd **** character after the decimal point**.
+
+**Examples**
+
+| **Input** | **Output** |
+| --- | --- |
+| 27 | 14.00 |
+| 78 | 56.00 |
+| 12.335 | 61.65 |
+
+
 =======
 ### 1.  
 Day
