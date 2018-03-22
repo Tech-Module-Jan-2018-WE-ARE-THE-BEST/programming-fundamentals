@@ -10,10 +10,10 @@ namespace P03_MilesToKilometers
         public static void Main(string[] args)
         {
             /* We recieve the distance in miles from the console */
-            var distanceInMiles = double.Parse(Console.ReadLine());
+            var distInMiles = double.Parse(Console.ReadLine());
 
             /* The distance in kilometers for one mile */
-            const double kilometersPerMile = 1.60934;
+            const double kmPerMile = 1.60934;
 
             /* Calculate the distance from miles to kilometers */
             var distanceInKilometers = distanceInMiles * kilometersPerMile;
