@@ -4,11 +4,7 @@
 
 <h3>#Programming Fundamentals Repo</h3>
 
-=======
-### 1.  
-Day
-of Week
-=======
+### Problem 1.\* Day of the week
 >>>>>>> 6275f746b47b4cbf511f954153955a485d379d8d
 1. 1.Multiply a Number by 2
 
