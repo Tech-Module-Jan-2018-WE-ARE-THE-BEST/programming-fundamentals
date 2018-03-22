@@ -7,9 +7,9 @@ namespace _05._Pizza_Ingredients
     {
         static void Main(string[] args)
         {
-			//reading ingrediants from the console.
+            //reading ingrediants from the console.
             string[] input = Console.ReadLine().Split();
-            int n = int.Parse(Console.ReadLine());
+            int number = int.Parse(Console.ReadLine());
             List<string> ingadients = new List<string>();
             for (int i = 0; i < input.Length; i++)
             {
@@ -17,19 +17,19 @@ namespace _05._Pizza_Ingredients
                 {
                     break;
                 }
-                if (input[i].Length == n)
+                if (input[i].Length == number)
                 {
                     ingadients.Add(input[i]);
                 }
             }
-			//adding ingrediants to pizza
+            //adding ingrediants to pizza
             for (int i = 0; i < ingadients.Count; i++)
             {
                 Console.WriteLine($"Adding {ingadients[i]}.");
             }
-			//print pizza
+            //print pizza
             Console.WriteLine($"Made pizza with total of {ingadients.Count} ingredients.");
-			//print ingrediants
+            //print ingrediants
             Console.WriteLine($"The ingredients are: {string.Join(", ", ingadients)}.");
 
         }
